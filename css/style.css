@@ -450,35 +450,35 @@ img{
  }
 
  .skills_html{
-     width: 80%;
+     width:90%;
  }
 
  .skills_css_bootstrap{
-    width: 75%;
+    width: 80%;
 }
 
 .skills_react{
-    width: 40%;
+    width: 75%;
 }
 
-.skills_vue{
+/* .skills_vue{
     width: 50%;
 }
 
 .skills_express{
     width: 60%;
-}
+} */
 
 .skills_php{
-    width: 65%;
+    width: 85%;
 }
 
-.skills_python{
-    width: 55%;
+.skills_Express{
+    width: 85%;
 }
 
 .skills_node{
-    width: 45%;
+    width: 75%;
 }
 
 .skills_mongodb{
@@ -486,7 +486,7 @@ img{
 }
 
 .skills_csharp{
-    width: 60%;
+    width: 90%;
 }
 
 .skills_c{
